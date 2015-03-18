@@ -1,0 +1,39 @@
+#container {
+	background-color: grey;
+	float: left;
+	width: 100%;
+}
+
+#header {
+	background-color: red;
+	height: 4em;
+}
+
+#header_logo {
+	background-color: blue;
+	width: 430px;
+	height: 100%;
+	float: left;
+}
+
+#nav {
+	background-color: cyan;
+	float: left;
+	height: 100%;
+}
+
+#nav a {
+	vertical-align: middle;
+}
+
+#menu_button {
+	float: right;
+}
+
+#main_content {
+	background-color: yellow;
+}
+
+h1 {
+
+padding-top: .5em;
